@@ -1,0 +1,8 @@
+traces/compress/compress_0_trace.gz
+traces/compress/compress_1_trace.gz
+traces/compress/compress_2_trace.gz
+traces/compress/compress_3_trace.gz
+traces/compress/compress_4_trace.gz
+traces/compress/compress_5_trace.gz
+traces/compress/compress_6_trace.gz
+traces/compress/compress_7_trace.gz

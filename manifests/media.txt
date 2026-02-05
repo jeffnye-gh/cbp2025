@@ -1,0 +1,4 @@
+traces/media/media_0_trace.gz
+traces/media/media_1_trace.gz
+traces/media/media_2_trace.gz
+traces/media/media_3_trace.gz

@@ -1,0 +1,125 @@
+
+----------------------------
+Process 
+
+The baseline (tage192) is the reference data. tage192 is typically run
+then the entries are run to generate the comparison data.
+
+I normally then write protect the results before I begin iterating on
+any new designs.
+
+./results is where the execution results are placed. For merges and the
+other post processing I put them in ./summary.
+
+The make file targets handle this process. Change as needed.
+
+
+1) Clean models
+
+	make clean
+
+2) Build models
+
+	make all
+
+3) Optional clear out all results
+
+	make clean_baseline
+	make clean_entries
+
+4) Optional: Run the base line predictor across all traces
+   Or keep the previous run. Required if clean_baseline. This
+   make target write protects the baseline directory results/tage192
+
+	make run_baseline
+
+5) Run the target implementations across the desired traces. Edit
+	R_ENTRIES and R_GROUPS or add from command line, comma sep arg. This
+  also write protects the results
+
+	make run_entries
+
+A) Merge and summarize available results compare to tage192, output
+   two CSV. summary/group_results.csv and summary/group_summary.csv
+
+	make summary
+
+B) Emit simple summary tables to console
+
+	make simple_tables
+
+C) Emit simple summary tables to console
+
+	make simple_tables
+
+
+For A,B,C no ordering is required.
+
+----------------------------
+Comments about the workload characteristics
+
+  These are useful when explaining why a predictor helps hurts certain workloads
+
+  When comparing predictors quote density 
+
+    “This workload has 2× the branch density of fp, so absolute gains differ.”
+
+  When CycWpPKI ≠ BrMisPKI
+    look at indirect density
+
+  When conditional density is low
+    stop tuning TAGE and look at:
+      fetch policy
+      return handling
+      BTB structure
+
+----------------------------
+Useful links for reference
+
+CBP2025 6th Championship Branch Prediction Announcement
+https://ericrotenberg.wordpress.ncsu.edu/cbp2025/
+
+CBP2025 Github
+https://github.com/ramisheikh/cbp2025/tree/main
+
+CBP2025 Workshop Program - (CODE)
+https://ericrotenberg.wordpress.ncsu.edu/cbp2025-workshop-program/
+
+CBP2025 Closing Remarks, Results, and Awards
+https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/CBP2025-Closing-Remarks.pdf
+
+----------------------------
+Entries
+
+Baseline
+  CBP2016 - Code is included in simulator framework
+  TAGE192 - Code is included in simulator framework
+
+BullsEye - Behrendt
+https://drive.google.com/file/d/1oWwt_pIbHhoXRV4iZyEbfR_F0hbmUFtT/view?usp=sharing
+
+CS-TAGE - Cai
+https://drive.google.com/file/d/10M0DmXGcAVdzkV86LlwKMWcHZWESGQ2P/view?usp=sharing
+
+BALL - Fan 
+https://drive.google.com/file/d/1gs56AXeY266ltvMwEjh3yTY0pYI6tM8B/view?usp=sharing
+
+MPP2025 - Jimenez
+https://drive.google.com/file/d/1VhKdqM0IsMGbquszdWJUKTomdbWPj7P-/view?usp=sharing
+
+RUNLTS - Koizumi
+https://drive.google.com/file/d/1VcjlfeyKgEqgwvUhXWGCeT4Nul8oGlkO/view?usp=sharing
+
+LVCP - Man
+https://drive.google.com/file/d/1Cp733wk5OebY7TbgwGEYGRj89q59vAUM/view?usp=sharing
+
+PIP - Mose
+https://drive.google.com/file/d/1eUJh-lIT37dmROdByl9KMlD4KukTbF52/view?usp=sharing
+
+TAGE2025 - Seznec
+code:https://drive.google.com/file/d/14EJlnzk_avmiaYMNSRUGpPf7DLCAdJBq/view?usp=sharing
+
+DD-TAGE - Ros
+https://drive.google.com/file/d/1XmcnL6HTY1Jiuckewk0-sKLLrmQpav5c/view?usp=sharing
+
+

@@ -1,0 +1,5 @@
+chatgpt was used for creating/modifying Makefile files and scripts.
+
+These are don't care items for my purpose. chatgpt made the boring bits
+less tedious. You will see ai markers in comments etc.
+

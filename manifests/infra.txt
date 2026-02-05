@@ -1,0 +1,16 @@
+traces/infra/infra_0_trace.gz
+traces/infra/infra_10_trace.gz
+traces/infra/infra_11_trace.gz
+traces/infra/infra_12_trace.gz
+traces/infra/infra_13_trace.gz
+traces/infra/infra_14_trace.gz
+traces/infra/infra_15_trace.gz
+traces/infra/infra_1_trace.gz
+traces/infra/infra_2_trace.gz
+traces/infra/infra_3_trace.gz
+traces/infra/infra_4_trace.gz
+traces/infra/infra_5_trace.gz
+traces/infra/infra_6_trace.gz
+traces/infra/infra_7_trace.gz
+traces/infra/infra_8_trace.gz
+traces/infra/infra_9_trace.gz
