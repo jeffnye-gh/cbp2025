@@ -1,1 +1,2 @@
-traces/sml/int_13_trace.gz
+traces/sml/400.perlbench-41B.champsimtrace.xz
+

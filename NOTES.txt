@@ -88,6 +88,23 @@ https://ericrotenberg.wordpress.ncsu.edu/cbp2025-workshop-program/
 CBP2025 Closing Remarks, Results, and Awards
 https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/CBP2025-Closing-Remarks.pdf
 
+LLBP github repo
+https://github.com/dhschall/LLBP
+
+https://github.com/dchasap?tab=repositories
+
+----------------------------
+Additional traces:
+
+SPEC CPU 2006 ChampSim Traces
+https://zenodo.org/records/10959705
+
+SPEC CPU 2017 ChampSim Traces
+https://zenodo.org/records/10960004
+
+Server Traces for The Last-Level Branch Predictor
+https://zenodo.org/records/13133243
+
 ----------------------------
 Entries
 

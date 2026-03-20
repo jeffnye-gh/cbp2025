@@ -9,8 +9,8 @@ run_hist1:
 
 one_hist1:
 	$(MAKE) hist1
-#	bash scripts/run_selected.sh --pred hist1 --group sml
-	bash scripts/run_selected.sh --pred hist1 --group sample_traces
+	bash scripts/run_selected.sh --pred hist1 --group sml
+#	bash scripts/run_selected.sh --pred hist1 --group sample_traces
 
 one_tage192:
 	bash scripts/run_selected.sh --pred tage192 --group sml

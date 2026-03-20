@@ -18,7 +18,7 @@ LIBDIR  := $(TOP)/lib
 LDLIBS  := -lz
 COMMON_INC := -I$(TOP) -I$(LIBDIR)
 
-ENTRIES ?= behrendt cai cbp2016 fan jimenez koizumi man mose ros seznec tage192
+ENTRIES ?= exp_koizumi behrendt cai cbp2016 fan jimenez koizumi man mose ros seznec tage192
 
 ifdef ENTRY
   ENTRIES := $(ENTRY)
@@ -124,7 +124,9 @@ merge:
 # -------------------------------------------------------------------
 trace_info:
 	python3 scripts/summarize_baseline_workload.py \
-	  --results_root ./results/tage192
+	  --results_root ./golden_results/tage192
+
+#	  --results_root ./results/tage192
 
 # -------------------------------------------------------------------
 # -------------------------------------------------------------------

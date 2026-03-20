@@ -25,6 +25,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stdio.h>
 #include <stdlib.h>
 #include <inttypes.h>
+#include <iostream>
 #include <sstream>
 #include <assert.h>
 //#include "cbp.h"
@@ -768,6 +769,8 @@ void uarchsim_t::step(db_t *inst)
    bool br_mispred = false;
    if (!PERFECT_BRANCH_PRED && BP.predict(seq_no, piece, inst->insn_class, inst->pc, inst->next_pc, predict_cycle))
    {
+///std::cout<<"HERE "<<seq_no<<piece<<" "<<inst->insn_class<<" "<<inst->pc<<" "<<inst->next_pc<<" "<<predict_cycle<<std::endl;
+std::cout<<"HERE "<<seq_no<<piece<<" "<<inst->pc<<" "<<inst->next_pc<<" "<<predict_cycle<<std::endl;
        br_mispred = true;
        // setting fetched/fetched_branch for the next cycle
        num_fetched = 0;
