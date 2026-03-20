@@ -1,0 +1,560 @@
+CMD:bin/cbp.man traces/infra/infra_6_trace.gz
+ (TAGE 1217581)  (LOOP 3648)  (SC 197568) 
+ (TOTAL 1418797 bits 173.192993 KB) 
+ TAGE Low Bank Used: 6
+ TAGE High Bank Used: 15
+ (Hard Branch Table 4559)  (Correlation Table 108576)  (Load Value Correlated Predictor Top 40041) 
+ (Load Value Correlated Predictor TOTAL 18.698242 KB) 
+ (Hard Branch Table 4559)  (Correlation Table 108576)  (Load Value Correlated Predictor Top 40041) 
+ (Load Value Correlated Predictor TOTAL 18.698242 KB) 
+[0, 0x800020a8], 33554563
+[0x400000701840, 0xffff000008081c04], 288224878595563536
+[0x706060, 0xffff000008081c04], 288225978107191024
+[0x40000061dae0, 0xffff000008081c04], 288224878595578118
+[0x40000061dae0, 0xffff000008081c04], 288224878595578118
+[0x40000061dae0, 0xffff000008081c04], 288224878595578118
+[0x40000061d224, 0xffff000008081c04], 288224878595578153
+[0x4000006696dc, 0xffff000008081c04], 288224878595573270
+[0x40000061d224, 0xffff000008081c04], 288224878595578153
+[0x40000061d2f0, 0xffff000008081c04], 288224878595578150
+[0x40000061b2f8, 0xffff000008081c04], 288224878595578278
+[0x400000489dd0, 0xffff000008081c04], 288224878595603962
+[0x4000006fc290, 0xffff000008081c04], 288224878595563879
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x40000044b4e0, 0xffff000008081c04], 288224878595607966
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006d7dd0, 0xffff000008081c04], 288224878595566202
+[0x4000000233c0, 0xffff000008081c04], 288224878595676066
+[0x4000006cd090, 0xffff000008081c04], 288224878595566895
+[0x40000067174c, 0xffff000008081c04], 288224878595572756
+[0x4000007013f8, 0xffff000008081c04], 288224878595563554
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000000235f8, 0xffff000008081c04], 288224878595676058
+[0x6404c0, 0xffff000008081c04], 288225978107203678
+[0x67cb10, 0xffff000008081c04], 288225978107199813
+[0x6aced0, 0xffff000008081c04], 288225978107196726
+[0x4000002429b0, 0xffff000008081c04], 288224878595641291
+[0x65a6b0, 0xffff000008081c04], 288225978107202007
+[0x6a0c20, 0xffff000008081c04], 288225978107197505
+[0x69fbe0, 0xffff000008081c04], 288225978107197570
+[0x6eaf70, 0xffff000008081c04], 288225978107192756
+[0x6bcb20, 0xffff000008081c04], 288225978107195717
+[0x4000001ee750, 0xffff000008081c04], 288224878595646676
+[0x6c4f70, 0xffff000008081c04], 288225978107195188
+5000000 instrs 
+[0x692090, 0xffff000008081c04], 288225978107198447
+[0x6dd13c, 0xffff000008081c04], 288225978107193645
+10000000 instrs 
+15000000 instrs 
+20000000 instrs 
+25000000 instrs 
+30000000 instrs 
+35000000 instrs 
+40000000 instrs 
+45000000 instrs 
+[0x4000000235f8, 0xffff000008081c04], 288224878595676058
+50000000 instrs 
+55000000 instrs 
+60000000 instrs 
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b68a0, 0xffff000008081c04], 288221580077724367
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6980, 0xffff000008081c04], 288221580077724363
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf6b6830, 0xffff000008081c04], 288221580077724369
+[0xffffbf3c44cc, 0xffff000008081c04], 288221580077772638
+[0x4000006fc604, 0xffff000008081c04], 288224878595563865
+EOF
+-----------------------------------Load Value Correlated Predictor Stats-----------------------------------
+Branch Entangling Table Touch: 0
+Branch Entangling Table Insert: 0
+Branch Entangling Table Load PC Changed: 0
+Load-Branch Entangling Table Touch: 0
+Load-Branch Entangling Table Insert: 0
+Load-Branch Entangling Table Load PC Changed: 0
+Load Value Correlated Predictor Predicted: 0
+Load Value Correlated Predictor Predicted By Value: 176608
+Load Value Correlated Predictor Predicted By Addr: 0
+Load Value Correlated Predictor Not Predicted: 0
+Load Value Correlated Predictor Not Predicted Due to Entangling Table Miss: 0
+Load Value Correlated Predictor Not Predicted Due to Correlation Table Miss: 0
+Load Value Correlated Predictor Not Predicted Due to Load Value Tracking Miss: 0
+Load Value Correlated Predictor No Load Or Value Late: 0
+Load Value Correlated Predictor Load Value Provided by DVTAGE: 0
+Load Value Correlated Predictor Not Predicted Due to TAGE High Confidence: 0
+Load Value Correlated Predictor Not Predicted Due to Low Correlation Confidence: 0
+Load Value Correlated Predictor Correct: 154617
+Load Value Correlated Predictor Incorrect: 2702
+Load Value Correlated Predictor Correct TAGE Correct: 152681
+Load Value Correlated Predictor Correct TAGE Incorrect: 1936
+Load Value Correlated Predictor Incorrect TAGE Correct: 1965
+Load Value Correlated Predictor Incorrect TAGE Incorrect: 737
+Load Inst Bitmap Miss: 200394
+Load Inst Bitmap Hit: 12998363
+Load Inst Bitmap Max Usage: 1024
+Load Value Correlated Predictor Accuracy: Nan
+Branch Entangling Table Load PC Changed Ratio: Nan
+Load Branch Entangling Table Load PC Changed Ratio: Nan
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------- Hard Branch Table Stats --------------------------------------
+  Update branches:                         9187928
+  Update replaces:                           29455
+  Update replaces failed:                  1907397
+  Update decays:                               459
+  Update decayed to zero:                    42938
+  Update saturated:                          51589
+  Query branches:                         18375856
+  Query hard:                              2236690
+  Query not hard:                         16139166
+------------------------------------------------------------------------------------------------
+
+-------------------------------------- Correlation Table Stats ----------------------------------
+  Total storage:                                        12.5 KB
+  Total table entries:                                  4096
+  Update count:                                     33843863
+  Update hit:                                       11078848
+  Update allocate:                                   1394264
+  Update dir changed:                                9895708
+  Update replacement:                                 317921
+  Update inserts:                                     322017
+  Update inserts failed:                              418615
+  Query hit:                                         4468285
+  Query miss:                                        9482942
+  Query conf saturated:                               176608
+  Query conf low:                                    4291677
+  Query direction changed:                           4111006
+  Query high conf & direction changed:                     0
+-------------------------------------------------------------------------------------------------
+WINDOW_SIZE = 1024
+FETCH_WIDTH = 16
+FETCH_NUM_BRANCH = 16
+FETCH_STOP_AT_INDIRECT = 1
+FETCH_STOP_AT_TAKEN = 1
+FETCH_MODEL_ICACHE = 1
+PERFECT_BRANCH_PRED = 0
+PERFECT_INDIRECT_PRED = 1
+PIPELINE_FILL_LATENCY = 10
+NUM_LDST_LANES = 8
+NUM_ALU_LANES = 16
+MEMORY HIERARCHY CONFIGURATION---------------------
+STRIDE Prefetcher = 1
+PERFECT_CACHE = 0
+WRITE_ALLOCATE = 1
+Within-pipeline factors:
+	AGEN latency = 1 cycle
+	Store Queue (SQ): SQ size = window size, oracle memory disambiguation, store-load forwarding = 1 cycle after store's or load's agen.
+	* Note: A store searches the L1$ at commit. The store is released
+	* from the SQ and window, whether it hits or misses. Store misses
+	* are buffered until the block is allocated and the store is
+	* performed in the L1$. While buffered, conflicting loads get
+	* the store's data as they would from the SQ.
+I$: 128 KB, 8-way set-assoc., 64B block size
+L1$: 128 KB, 8-way set-assoc., 64B block size, 3-cycle search latency
+L2$: 4 MB, 8-way set-assoc., 64B block size, 12-cycle search latency
+L3$: 32 MB, 16-way set-assoc., 128B block size, 50-cycle search latency
+Main Memory: 150-cycle fixed search time
+---------------------------STORE QUEUE MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)---------------------------
+Number of loads: 17254842
+Number of loads that miss in SQ: 12147008 (70.40%)
+Number of PFs issued to the memory system 1852111
+---------------------------------------------------------------------------------------------------------------------------------------
+------------------------MEMORY HIERARCHY MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------
+I$:
+	accesses   = 75302050
+	misses     = 17636
+	miss ratio = 0.02%
+	pf accesses   = 0
+	pf misses     = 0
+	pf miss ratio = -nan%
+L1$:
+	accesses   = 29340899
+	misses     = 531022
+	miss ratio = 1.81%
+	pf accesses   = 1852111
+	pf misses     = 51076
+	pf miss ratio = 2.76%
+L2$:
+	accesses   = 548658
+	misses     = 259681
+	miss ratio = 47.33%
+	pf accesses   = 51076
+	pf misses     = 41177
+	pf miss ratio = 80.62%
+L3$:
+	accesses   = 259681
+	misses     = 79969
+	miss ratio = 30.80%
+	pf accesses   = 41177
+	pf misses     = 16899
+	pf miss ratio = 41.04%
+---------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------Prefetcher (Full Simulation i.e. No Warmup)----------------------------------------------
+Num Trainings :17254842
+Num Prefetches generated :1873483
+Num Prefetches issued :3210061
+Num Prefetches filtered by PF queue :271901
+Num untimely prefetches dropped from PF queue :21372
+Num prefetches not issued LDST contention :1357950
+Num prefetches not issued stride 0 :5546092
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------ILP LIMIT STUDY (Full Simulation i.e. Counts Not Reset When Warmup Ends)--------------------------------
+instructions = 64718349
+cycles       = 15344828
+CycWP        = 3111996
+IPC          = 4.2176
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)----------------------------------------------
+Type                   NumBr     MispBr        mr     mpki
+CondDirect          9187928      79371   0.8639%   1.2264
+JumpDirect          2345056          0   0.0000%   0.0000
+JumpIndirect         933841          0   0.0000%   0.0000
+JumpReturn          1333400          0   0.0000%   0.0000
+Not control        61501825          0   0.0000%   0.0000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 10M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    10718349      3018041   3.5514    1869033      22861   0.6193       0.0076   1.2231%   2.1329    1002076    43.8334    93.4916
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 25M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    25718349      6577899   3.9098    4120305      34683   0.6264       0.0053   0.8418%   1.3486    1666228    48.0416    64.7875
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (50 Perc instructions)---------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    32718349      7720786   4.2377    5004718      38712   0.6482       0.0050   0.7735%   1.1832    1784147    46.0877    54.5305
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    64718349     15344828   4.2176    9187928      79371   0.5988       0.0052   0.8639%   1.2264    3111996    39.2082    48.0852
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Read 64718349 instrs 
+
+ExecTime = 689.6115734577179

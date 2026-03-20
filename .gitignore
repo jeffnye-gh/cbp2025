@@ -2,7 +2,6 @@ lib/*.o
 lib/*.a
 bin
 build
-golden_results
 results
 summary
 trace_archives

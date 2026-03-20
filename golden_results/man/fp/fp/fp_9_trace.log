@@ -1,0 +1,193 @@
+CMD:bin/cbp.man traces/fp/fp_9_trace.gz
+ (TAGE 1217581)  (LOOP 3648)  (SC 197568) 
+ (TOTAL 1418797 bits 173.192993 KB) 
+ TAGE Low Bank Used: 6
+ TAGE High Bank Used: 15
+ (Hard Branch Table 4559)  (Correlation Table 108576)  (Load Value Correlated Predictor Top 40041) 
+ (Load Value Correlated Predictor TOTAL 18.698242 KB) 
+ (Hard Branch Table 4559)  (Correlation Table 108576)  (Load Value Correlated Predictor Top 40041) 
+ (Load Value Correlated Predictor TOTAL 18.698242 KB) 
+[0, 0x800021c4], 33554568
+5000000 instrs 
+10000000 instrs 
+[0x71daf0, 0x80000d00], 33437898
+15000000 instrs 
+20000000 instrs 
+25000000 instrs 
+30000000 instrs 
+35000000 instrs 
+40000000 instrs 
+[0x71b888, 0x80000d00], 33438035
+EOF
+-----------------------------------Load Value Correlated Predictor Stats-----------------------------------
+Branch Entangling Table Touch: 0
+Branch Entangling Table Insert: 0
+Branch Entangling Table Load PC Changed: 0
+Load-Branch Entangling Table Touch: 0
+Load-Branch Entangling Table Insert: 0
+Load-Branch Entangling Table Load PC Changed: 0
+Load Value Correlated Predictor Predicted: 0
+Load Value Correlated Predictor Predicted By Value: 230036
+Load Value Correlated Predictor Predicted By Addr: 0
+Load Value Correlated Predictor Not Predicted: 0
+Load Value Correlated Predictor Not Predicted Due to Entangling Table Miss: 0
+Load Value Correlated Predictor Not Predicted Due to Correlation Table Miss: 0
+Load Value Correlated Predictor Not Predicted Due to Load Value Tracking Miss: 0
+Load Value Correlated Predictor No Load Or Value Late: 0
+Load Value Correlated Predictor Load Value Provided by DVTAGE: 0
+Load Value Correlated Predictor Not Predicted Due to TAGE High Confidence: 0
+Load Value Correlated Predictor Not Predicted Due to Low Correlation Confidence: 0
+Load Value Correlated Predictor Correct: 205445
+Load Value Correlated Predictor Incorrect: 1596
+Load Value Correlated Predictor Correct TAGE Correct: 200399
+Load Value Correlated Predictor Correct TAGE Incorrect: 5046
+Load Value Correlated Predictor Incorrect TAGE Correct: 763
+Load Value Correlated Predictor Incorrect TAGE Incorrect: 833
+Load Inst Bitmap Miss: 597754
+Load Inst Bitmap Hit: 10922994
+Load Inst Bitmap Max Usage: 432
+Load Value Correlated Predictor Accuracy: Nan
+Branch Entangling Table Load PC Changed Ratio: Nan
+Load Branch Entangling Table Load PC Changed Ratio: Nan
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------- Hard Branch Table Stats --------------------------------------
+  Update branches:                         5012775
+  Update replaces:                           17820
+  Update replaces failed:                   337622
+  Update decays:                               250
+  Update decayed to zero:                    25902
+  Update saturated:                         163067
+  Query branches:                         10025591
+  Query hard:                              6248846
+  Query not hard:                          3776745
+------------------------------------------------------------------------------------------------
+
+-------------------------------------- Correlation Table Stats ----------------------------------
+  Total storage:                                        12.5 KB
+  Total table entries:                                  4096
+  Update count:                                     95632028
+  Update hit:                                       24851107
+  Update allocate:                                   4513216
+  Update dir changed:                               21419108
+  Update replacement:                                 800339
+  Update inserts:                                     804435
+  Update inserts failed:                             2024395
+  Query hit:                                         6178901
+  Query miss:                                       14963922
+  Query conf saturated:                               230036
+  Query conf low:                                    5948865
+  Query direction changed:                           5598348
+  Query high conf & direction changed:                     0
+-------------------------------------------------------------------------------------------------
+WINDOW_SIZE = 1024
+FETCH_WIDTH = 16
+FETCH_NUM_BRANCH = 16
+FETCH_STOP_AT_INDIRECT = 1
+FETCH_STOP_AT_TAKEN = 1
+FETCH_MODEL_ICACHE = 1
+PERFECT_BRANCH_PRED = 0
+PERFECT_INDIRECT_PRED = 1
+PIPELINE_FILL_LATENCY = 10
+NUM_LDST_LANES = 8
+NUM_ALU_LANES = 16
+MEMORY HIERARCHY CONFIGURATION---------------------
+STRIDE Prefetcher = 1
+PERFECT_CACHE = 0
+WRITE_ALLOCATE = 1
+Within-pipeline factors:
+	AGEN latency = 1 cycle
+	Store Queue (SQ): SQ size = window size, oracle memory disambiguation, store-load forwarding = 1 cycle after store's or load's agen.
+	* Note: A store searches the L1$ at commit. The store is released
+	* from the SQ and window, whether it hits or misses. Store misses
+	* are buffered until the block is allocated and the store is
+	* performed in the L1$. While buffered, conflicting loads get
+	* the store's data as they would from the SQ.
+I$: 128 KB, 8-way set-assoc., 64B block size
+L1$: 128 KB, 8-way set-assoc., 64B block size, 3-cycle search latency
+L2$: 4 MB, 8-way set-assoc., 64B block size, 12-cycle search latency
+L3$: 32 MB, 16-way set-assoc., 128B block size, 50-cycle search latency
+Main Memory: 150-cycle fixed search time
+---------------------------STORE QUEUE MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)---------------------------
+Number of loads: 22658890
+Number of loads that miss in SQ: 20570577 (90.78%)
+Number of PFs issued to the memory system 3535429
+---------------------------------------------------------------------------------------------------------------------------------------
+------------------------MEMORY HIERARCHY MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------
+I$:
+	accesses   = 60764323
+	misses     = 553
+	miss ratio = 0.00%
+	pf accesses   = 0
+	pf misses     = 0
+	pf miss ratio = -nan%
+L1$:
+	accesses   = 24405553
+	misses     = 165335
+	miss ratio = 0.68%
+	pf accesses   = 3535429
+	pf misses     = 2062
+	pf miss ratio = 0.06%
+L2$:
+	accesses   = 165888
+	misses     = 55787
+	miss ratio = 33.63%
+	pf accesses   = 2062
+	pf misses     = 486
+	pf miss ratio = 23.57%
+L3$:
+	accesses   = 55787
+	misses     = 35934
+	miss ratio = 64.41%
+	pf accesses   = 486
+	pf misses     = 280
+	pf miss ratio = 57.61%
+---------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------Prefetcher (Full Simulation i.e. No Warmup)----------------------------------------------
+Num Trainings :22658890
+Num Prefetches generated :3606401
+Num Prefetches issued :21076825
+Num Prefetches filtered by PF queue :1712979
+Num untimely prefetches dropped from PF queue :70970
+Num prefetches not issued LDST contention :17541396
+Num prefetches not issued stride 0 :1817167
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------ILP LIMIT STUDY (Full Simulation i.e. Counts Not Reset When Warmup Ends)--------------------------------
+instructions = 40000016
+cycles       = 16133360
+CycWP        = 11305966
+IPC          = 2.4793
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)----------------------------------------------
+Type                   NumBr     MispBr        mr     mpki
+CondDirect          5012816     164022   3.2721%   4.1005
+JumpDirect          1021788          0   0.0000%   0.0000
+JumpIndirect          11526          0   0.0000%   0.0000
+JumpReturn           103480          0   0.0000%   0.0000
+Not control        54614713          0   0.0000%   0.0000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 10M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    10000016      4016289   2.4899    1237301      43709   0.3081       0.0109   3.5326%   4.3709    2810362    64.2971   281.0358
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 25M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    25000016      9428834   2.6514    3131703     105786   0.3321       0.0112   3.3779%   4.2314    6521616    61.6491   260.8645
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (50 Perc instructions)---------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    20000016      7676663   2.6053    2500178      86856   0.3257       0.0113   3.4740%   4.3428    5344933    61.5379   267.2464
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    40000016     16133360   2.4793    5012816     164022   0.3107       0.0102   3.2721%   4.1005   11305966    68.9296   282.6490
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Read 40000016 instrs 
+
+ExecTime = 561.7013671398163

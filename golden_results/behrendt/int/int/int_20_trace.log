@@ -1,0 +1,228 @@
+CMD:bin/cbp.behrendt traces/int/int_20_trace.gz
+5000000 instrs 
+L_PERCEP PC=0x00A00AA4, theta= 221, max bias=  11, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+10000000 instrs 
+G_PERCEP PC=0x00A00AA4, theta= 296, max bias=  13, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00C9622C, theta= 261, max bias=  12, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00C9622C, theta= 312, max bias=  33, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x005D1AD4, theta= 253, max bias=  11, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x005D1AD4, theta= 312, max bias=  44, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+15000000 instrs 
+L_PERCEP PC=0x009E4C78, theta= 261, max bias=  28, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x009E4C78, theta= 320, max bias=  37, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+20000000 instrs 
+L_PERCEP PC=0x006AB4C4, theta= 261, max bias=  15, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x006AB4C4, theta= 320, max bias=  56, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x0055469C, theta= 253, max bias=  20, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x0055469C, theta= 320, max bias=  43, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00A010DC, theta= 312, max bias=  45, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00A010DC, theta= 253, max bias=  29, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00465C84, theta= 312, max bias=  23, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00465C84, theta= 261, max bias=  19, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+25000000 instrs 
+L_PERCEP PC=0x00498024, theta= 261, max bias=  22, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00498024, theta= 304, max bias=  43, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x0059CBDC, theta= 304, max bias=  29, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+30000000 instrs 
+G_PERCEP PC=0x004980C8, theta= 312, max bias=  25, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x004980C8, theta= 253, max bias=  19, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+35000000 instrs 
+L_PERCEP PC=0x00705E00, theta= 261, max bias=  18, baseline_comp=  0, stable_cnt=  0, grace_period=129, time_alive=65535
+G_PERCEP PC=0x00705E00, theta= 320, max bias=   7, baseline_comp=  1, stable_cnt=  0, grace_period=129, time_alive=65535
+G_PERCEP PC=0x006AB494, theta= 320, max bias=  31, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+40000000 instrs 
+L_PERCEP PC=0x005A26C0, theta= 261, max bias=   7, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x005A26C0, theta= 320, max bias=  15, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00A49108, theta= 253, max bias=  15, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00A49108, theta= 312, max bias=  13, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00491D24, theta= 261, max bias=  24, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+45000000 instrs 
+L_PERCEP PC=0x005CB600, theta= 261, max bias=   9, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x004980C8, theta= 261, max bias=   7, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x0046E25C, theta= 312, max bias=  60, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x0046E25C, theta= 261, max bias=  25, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x006AB494, theta= 261, max bias=   6, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+50000000 instrs 
+G_PERCEP PC=0x00491D24, theta= 312, max bias=  37, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00A490C4, theta= 253, max bias=  24, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+55000000 instrs 
+L_PERCEP PC=0x00498024, theta= 261, max bias=  25, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x0052BC18, theta= 253, max bias=   6, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+L_PERCEP PC=0x00464BF4, theta= 261, max bias=  11, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+G_PERCEP PC=0x00464BF4, theta= 320, max bias=  24, baseline_comp=  0, stable_cnt=255, grace_period=511, time_alive=  0
+60000000 instrs 
+EOF
+======== Predictor Memory ========
+TAGE-SC-L (bits) = 1305275
+TAGE-SC-L (KBytes) = 159.335327
+H2P_ID_MEM_BITS = 19456
+H2P_ID_MEM (KBytes) = 2.375000
+L_PERCEP_MEM_BITS = 176320
+L_PERCEP_MEM (KBytes) = 21.523438
+G_PERCEP_MEM_BITS = 33184
+G_PERCEP_MEM (KBytes) = 4.050781
+Total Memory (bits) = 1534235
+Total Memory (KBytes) = 187.284546
+======== Runtime Statistics ========
+COL h2p_insert_cnt = 46
+COL h2p_with_tage = 9376722
+COL h2p_with_lhist_percep = 3374
+COL h2p_with_ghist_percep = 4618
+COL filtered_updates = 0
+COL lhist_percep_evictions = 21
+COL ghist_percep_evictions = 17
+COL lhist_percep_stale_evictions = 1
+COL ghist_percep_stale_evictions = 1
+======== End of Statistics ========
+WINDOW_SIZE = 1024
+FETCH_WIDTH = 16
+FETCH_NUM_BRANCH = 16
+FETCH_STOP_AT_INDIRECT = 1
+FETCH_STOP_AT_TAKEN = 1
+FETCH_MODEL_ICACHE = 1
+PERFECT_BRANCH_PRED = 0
+PERFECT_INDIRECT_PRED = 1
+PIPELINE_FILL_LATENCY = 10
+NUM_LDST_LANES = 8
+NUM_ALU_LANES = 16
+MEMORY HIERARCHY CONFIGURATION---------------------
+STRIDE Prefetcher = 1
+PERFECT_CACHE = 0
+WRITE_ALLOCATE = 1
+Within-pipeline factors:
+	AGEN latency = 1 cycle
+	Store Queue (SQ): SQ size = window size, oracle memory disambiguation, store-load forwarding = 1 cycle after store's or load's agen.
+	* Note: A store searches the L1$ at commit. The store is released
+	* from the SQ and window, whether it hits or misses. Store misses
+	* are buffered until the block is allocated and the store is
+	* performed in the L1$. While buffered, conflicting loads get
+	* the store's data as they would from the SQ.
+I$: 128 KB, 8-way set-assoc., 64B block size
+L1$: 128 KB, 8-way set-assoc., 64B block size, 3-cycle search latency
+L2$: 4 MB, 8-way set-assoc., 64B block size, 12-cycle search latency
+L3$: 32 MB, 16-way set-assoc., 128B block size, 50-cycle search latency
+Main Memory: 150-cycle fixed search time
+---------------------------STORE QUEUE MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)---------------------------
+Number of loads: 18126583
+Number of loads that miss in SQ: 12823397 (70.74%)
+Number of PFs issued to the memory system 1573466
+---------------------------------------------------------------------------------------------------------------------------------------
+------------------------MEMORY HIERARCHY MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------
+I$:
+	accesses   = 68678744
+	misses     = 47310
+	miss ratio = 0.07%
+	pf accesses   = 0
+	pf misses     = 0
+	pf miss ratio = -nan%
+L1$:
+	accesses   = 27658271
+	misses     = 342306
+	miss ratio = 1.24%
+	pf accesses   = 1573466
+	pf misses     = 122449
+	pf miss ratio = 7.78%
+L2$:
+	accesses   = 389616
+	misses     = 56987
+	miss ratio = 14.63%
+	pf accesses   = 122449
+	pf misses     = 10624
+	pf miss ratio = 8.68%
+L3$:
+	accesses   = 56987
+	misses     = 34641
+	miss ratio = 60.79%
+	pf accesses   = 10624
+	pf misses     = 5235
+	pf miss ratio = 49.28%
+---------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------Prefetcher (Full Simulation i.e. No Warmup)----------------------------------------------
+Num Trainings :18126583
+Num Prefetches generated :1579916
+Num Prefetches issued :3676799
+Num Prefetches filtered by PF queue :99693
+Num untimely prefetches dropped from PF queue :6450
+Num prefetches not issued LDST contention :2103333
+Num prefetches not issued stride 0 :4348694
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------ILP LIMIT STUDY (Full Simulation i.e. Counts Not Reset When Warmup Ends)--------------------------------
+instructions = 60000051
+cycles       = 16768447
+CycWP        = 4704170
+IPC          = 3.5782
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)----------------------------------------------
+Type                   NumBr     MispBr        mr     mpki
+CondDirect          9561405     141077   1.4755%   2.3513
+JumpDirect          1957277          0   0.0000%   0.0000
+JumpIndirect         445245          0   0.0000%   0.0000
+JumpReturn           908136          0   0.0000%   0.0000
+Not control        55806681          0   0.0000%   0.0000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 10M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    10000051      2487087   4.0208    1668734      25014   0.6710       0.0101   1.4990%   2.5014     732189    29.2712    73.2185
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Last 25M instructions)-----------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    25000051      5621679   4.4471    4043110      52553   0.7192       0.0093   1.2998%   2.1021    1503991    28.6186    60.1595
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (50 Perc instructions)---------------------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    30000051      6848118   4.3808    4877083      65626   0.7122       0.0096   1.3456%   2.1875    1893471    28.8525    63.1156
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------DIRECT CONDITIONAL BRANCH PREDICTION MEASUREMENTS (Full Simulation i.e. Counts Not Reset When Warmup Ends)-------------------------------------
+       Instr       Cycles      IPC      NumBr     MispBr BrPerCyc MispBrPerCyc        MR     MPKI      CycWP   CycWPAvg   CycWPPKI
+    60000051     16768447   3.5782    9561405     141077   0.5702       0.0084   1.4755%   2.3513    4704170    33.3447    78.4028
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Read 60000051 instrs 
+G_PERCEP PC=0x005A8524, theta= 312, max bias=  16, baseline_comp=  2, stable_cnt=  0, grace_period=511, time_alive=2493
+G_PERCEP PC=0x0052BC18, theta= 320, max bias=  30, baseline_comp=  5, stable_cnt=  0, grace_period=511, time_alive=1921
+G_PERCEP PC=0x00465DFC, theta= 320, max bias=  11, baseline_comp=  5, stable_cnt=  0, grace_period=141, time_alive=1081
+G_PERCEP PC=0x0059B6A4, theta= 320, max bias=  17, baseline_comp=  2, stable_cnt=  0, grace_period=511, time_alive=11228
+G_PERCEP PC=0x00546C40, theta= 192, max bias=  64, baseline_comp= 47, stable_cnt=  0, grace_period=511, time_alive=35809
+G_PERCEP PC=0x00546EC4, theta= 352, max bias=  24, baseline_comp=  0, stable_cnt= 39, grace_period=511, time_alive=35820
+G_PERCEP PC=0x00465C58, theta= 312, max bias=  18, baseline_comp=  0, stable_cnt=  7, grace_period=511, time_alive=1080
+G_PERCEP PC=0x004980C8, theta= 320, max bias=   4, baseline_comp=  0, stable_cnt=  0, grace_period=249, time_alive=  3
+G_PERCEP PC=0x00546ED4, theta= 288, max bias=  29, baseline_comp= 31, stable_cnt=  0, grace_period=511, time_alive=35819
+G_PERCEP PC=0x004672EC, theta= 320, max bias=  21, baseline_comp=  1, stable_cnt=  1, grace_period=511, time_alive=  2
+G_PERCEP PC=0x00546C50, theta= 272, max bias=  43, baseline_comp=  9, stable_cnt=  0, grace_period=511, time_alive=35808
+G_PERCEP PC=0x00C5CD94, theta= 320, max bias=   8, baseline_comp=  0, stable_cnt=  0, grace_period=121, time_alive=3248
+G_PERCEP PC=0x00467580, theta= 312, max bias=  33, baseline_comp=  2, stable_cnt=  0, grace_period=511, time_alive=  0
+G_PERCEP PC=0x006AB920, theta= 320, max bias=  39, baseline_comp= 15, stable_cnt=  0, grace_period=511, time_alive=256
+G_PERCEP PC=0x0059CCC8, theta= 320, max bias=  20, baseline_comp=  3, stable_cnt=  0, grace_period=224, time_alive=11367
+G_PERCEP PC=0x005317E4, theta= 320, max bias=  10, baseline_comp=  1, stable_cnt= 11, grace_period=511, time_alive=1701
+L_PERCEP PC=0x0052BBF4, theta= 261, max bias=  29, baseline_comp=  0, stable_cnt=  0, grace_period=189, time_alive=3217
+L_PERCEP PC=0x0052C9AC, theta= 261, max bias=   9, baseline_comp=  0, stable_cnt=  0, grace_period= 63, time_alive=6091
+L_PERCEP PC=0x005A8524, theta= 261, max bias=   5, baseline_comp=  0, stable_cnt=  4, grace_period=511, time_alive=5088
+L_PERCEP PC=0x004678D8, theta= 261, max bias=   1, baseline_comp=  1, stable_cnt=  0, grace_period=  2, time_alive= 10
+L_PERCEP PC=0x006AB4C4, theta= 261, max bias=   6, baseline_comp=  6, stable_cnt=  0, grace_period=511, time_alive=4229
+L_PERCEP PC=0x00498030, theta= 261, max bias=   5, baseline_comp=  0, stable_cnt=242, grace_period=511, time_alive=  5
+L_PERCEP PC=0x00465C58, theta= 261, max bias=  19, baseline_comp=  0, stable_cnt=  2, grace_period=511, time_alive=2159
+L_PERCEP PC=0x004672D4, theta= 261, max bias=   6, baseline_comp=  0, stable_cnt=157, grace_period=511, time_alive=  4
+L_PERCEP PC=0x00465DFC, theta= 261, max bias=  17, baseline_comp=  4, stable_cnt=  0, grace_period=320, time_alive=2160
+L_PERCEP PC=0x0059B6A4, theta= 261, max bias=  28, baseline_comp=  2, stable_cnt=  0, grace_period=511, time_alive=16725
+L_PERCEP PC=0x00546C40, theta= 165, max bias=   5, baseline_comp=  0, stable_cnt= 40, grace_period=511, time_alive=51059
+L_PERCEP PC=0x00546EC4, theta= 181, max bias=  12, baseline_comp=  7, stable_cnt=  0, grace_period=511, time_alive=51070
+L_PERCEP PC=0x004986E8, theta= 261, max bias=  10, baseline_comp=  0, stable_cnt=  0, grace_period=501, time_alive=5776
+L_PERCEP PC=0x004672EC, theta= 261, max bias=  25, baseline_comp=  7, stable_cnt=  0, grace_period=511, time_alive=  3
+L_PERCEP PC=0x004674F4, theta= 261, max bias=  25, baseline_comp=  8, stable_cnt=  0, grace_period=511, time_alive=  2
+L_PERCEP PC=0x00546ED4, theta= 245, max bias=  31, baseline_comp=  0, stable_cnt= 29, grace_period=511, time_alive=51069
+L_PERCEP PC=0x00961E0C, theta= 261, max bias=   5, baseline_comp=  0, stable_cnt=  0, grace_period=150, time_alive=6996
+L_PERCEP PC=0x00546C50, theta= 245, max bias=  31, baseline_comp=  0, stable_cnt= 64, grace_period=511, time_alive=51058
+L_PERCEP PC=0x006AB920, theta= 261, max bias=  16, baseline_comp= 12, stable_cnt=  0, grace_period=511, time_alive=268
+L_PERCEP PC=0x00C5CD94, theta= 261, max bias=   5, baseline_comp=  0, stable_cnt=  0, grace_period=121, time_alive=6727
+L_PERCEP PC=0x00467580, theta= 253, max bias=   6, baseline_comp=  3, stable_cnt=  0, grace_period=511, time_alive=  0
+L_PERCEP PC=0x0059CBDC, theta= 181, max bias=  19, baseline_comp= 61, stable_cnt=  0, grace_period=511, time_alive=16864
+L_PERCEP PC=0x0059CCC8, theta= 261, max bias=  24, baseline_comp=  0, stable_cnt=  0, grace_period=224, time_alive=16896
+L_PERCEP PC=0x005317E4, theta= 221, max bias=   6, baseline_comp= 25, stable_cnt=  0, grace_period=511, time_alive=2789
+
+ExecTime = 956.7705597877502
